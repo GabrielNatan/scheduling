@@ -1,0 +1,20 @@
+[
+    {
+        "color":"#0B3B60",
+        "text":"Medicos(as)",
+        "icon":"Doctor",
+        "path":"/doctor"
+    },
+    {
+        "color":"#0B3B60",
+        "text":"Pacientes",
+        "icon":"User",
+        "path":"/user"
+    },
+    {
+        "color":"#0B3B60",
+        "text":"Consultas",
+        "icon":"Calendar",
+        "path":"/consultas"
+    }
+]
